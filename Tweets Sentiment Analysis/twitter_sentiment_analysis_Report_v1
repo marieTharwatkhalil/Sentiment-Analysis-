@@ -1,0 +1,26 @@
+Twitter sentiment analysis
+
+Problem Description: 
+an application is required to search and apply sentiment analysis on tweets.
+then applying a classifier as example: Naive Bayes.
+finally visualizing the result
+
+Solution Description: 
+-asking the users to enter the word they want the application to search for
+-specifing the number of tweets to search for   
+-searching for specific term(word) using twitter API.
+-retrieving specific number of tweets.
+-finding the polarity(classifing and counting the retrieved tweets into three categorie Positive, Negative, or Neutral).
+-analysing the sentiment of all tweets.
+-Visualzing the results using a Pie Chart
+
+*Suggested Temporary Solution: 
+-classifying the tweets using textblob.
+
+known Bugs:
+-the application is not able to find all search terms
+-when it can not find the given word, it causes an error in the graph(last cell) 
+
+Note:
+I solved some errors using try, except 
+I`m working on the project to solve all bugs and errors and to apply Naive Bayes Classifier...
