@@ -26,7 +26,7 @@ input("How many tweets you want?")
 
 Output:
 ```
-Peolpe`s reaction to 'Mcdonalds' is 'Positive' according to the analysis of 50 tweets 
+> Peolpe`s reaction to 'Mcdonalds' is 'Positive' according to the analysis of 50 tweets 
 
 > Peolpe`s reaction to 'Burger King' is 'Positive' according to the analysis of 50 tweets 
 
