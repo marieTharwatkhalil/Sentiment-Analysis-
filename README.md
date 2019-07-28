@@ -2,10 +2,13 @@
 # Voice of Customers 
  This application searches on twitter for two brands then analyzes the sentiment and polarity of their customers` tweets. Finally plotting  two pie charts for the two brands representing the percentage of each sentiment.
 # Examples
-Input:
+
+Output:
 ```
 print("which two Brands you need to compare? ")
 ```
+
+Input:
 ```
 input("Brand 1") 
 ```
@@ -31,11 +34,12 @@ Peolpe`s reaction to 'Mcdonalds' is 'Positive' according to the analysis of 50 t
 
 > Burger King Pie Chart 
 ```
-Input:
 
+Output:
 ```
 print("which two Brands you need to compare? ")
 ```
+Input:
 ```
 input("Brand 1") 
 ```
