@@ -1,1 +1,57 @@
-## polarity_meter(tweets) ##
+
+#polarity_meter(tweets) 
+
+#takes the retrieved tweets
+#counts the number of positive,negative,neutral, tweets and the total polarity 
+#return values of positive,negative,neutral,polarity as numbers
+
+
+
+#polarity_meter_brands(brand)
+
+#takes the DataFrame from the brand.csv file.
+#counts the number of positive,negative,neutral, tweets and the total polarity
+#return values of positive,negative,neutral,polarity as numbers
+
+
+# percentage(part,total)
+
+#Calculates the percentage of each polarity 
+#takes two arguments part and totoal, 
+#part= one of the three variables: positive, negatve or neutral/ total=sum of all the three variables 
+#calculates the percentage of part 
+#return the percentage of the part
+
+
+# sentiment_tweets(polarity_)
+
+#takes  polarity as a number 
+#decides if the polarity is positive, negative or neutral
+#return sentiment as a string positive, negative or neutral
+
+
+# Pie_chart(positive,negative,neutral,search_term)
+
+#plots a pie chart that represents the percentage of each polarity
+#takes positive,negative,neutral, as numbers and the search_term (Brand name) 
+#returns a pie chart and legend contaions the color,label and percentage of each slice
+
+
+
+# Pie_chart2(positive,negative,neutral,search_term)
+
+#plots a pie chart that represents the percentage of each polarity
+#takes positive,negative,neutral, as numbers and the search_term (Brand name)
+#return a pie chart contains the percentage of each slice and legend contaions the color and label
+
+
+
+# tweets_to_list(tweets)
+
+#takes an arguments tweets(the retrieved tweets)
+#convert the tweets into list of tweets
+#return brand_list(list of tweets)
+
+
+
+
